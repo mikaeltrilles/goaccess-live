@@ -1,0 +1,9 @@
+[Tue Nov 22 21:30:24.377386 2022] [mpm_prefork:notice] [pid 17] AH00163: Apache/2.4.54 (Debian) PHP/8.1.11 configured -- resuming normal operations
+[Tue Nov 22 21:30:24.378533 2022] [core:notice] [pid 17] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 21:35:47.830755 2022] [mpm_prefork:notice] [pid 17] AH00169: caught SIGTERM, shutting down
+[Tue Nov 22 21:37:33.034844 2022] [mpm_prefork:notice] [pid 17] AH00163: Apache/2.4.54 (Debian) PHP/8.1.11 configured -- resuming normal operations
+[Tue Nov 22 21:37:33.041911 2022] [core:notice] [pid 17] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 21:45:53.082413 2022] [core:warn] [pid 18] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 22 21:45:53.085723 2022] [mpm_prefork:notice] [pid 18] AH00163: Apache/2.4.54 (Debian) PHP/8.1.11 configured -- resuming normal operations
+[Tue Nov 22 21:45:53.086793 2022] [core:notice] [pid 18] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Nov 22 22:32:03.720056 2022] [mpm_prefork:notice] [pid 18] AH00169: caught SIGTERM, shutting down

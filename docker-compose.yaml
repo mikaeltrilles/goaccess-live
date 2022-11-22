@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  php8:
+    build: php8
+    ports:
+      - 9000:80
+    volumes:
+      - ./logs:/var/log/apache2/
+      - ./html:/var/www/
